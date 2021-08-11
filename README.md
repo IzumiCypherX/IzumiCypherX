@@ -2,7 +2,7 @@
 
 <img src="https://telegra.ph/file/f20c4cd2977d20b612b18.jpg">
 
-### 🔗Personal Info:
+### Personal Info:
 
 <b>
   Name: Sidhartha Rao. 
@@ -20,12 +20,12 @@
 
  </b> 
  
- ## 🔗Programming Languages I'm Seasoned in:
+ ## Programming Languages I'm Seasoned in:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 
-## 🔗Languages I'm Learning/Planning to Learn:
+## Languages I'm Learning/Planning to Learn:
 
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +34,7 @@
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-## 🔗Where to find me
+## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/IzumiCypherX)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=Instagram&logoColor=gradientred)](https://www.instagram.com/IzumiCypherX)
