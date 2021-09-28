@@ -38,7 +38,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/IzumiCypherX)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=Instagram&logoColor=gradientred)](https://www.instagram.com/IzumiCypherX)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IzumiCypherX)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheSidharthaRao)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=IzumiCypherX&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=IzumiCypherX&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
