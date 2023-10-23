@@ -7,38 +7,45 @@
   
   - Nationality: Indian.
   
-  - Languages I speak: English(EN); Hindi(हिंदी); Bengali(বাংলা), japanese(日本語)(to a very basic elementary level)
+  - Languages I speak: English(EN); Hindi(हिंदी); Bengali(বাংলা), Japanese(日本語) (to a very basic elementary level)
   
   - 17 years old.
   
   - Cuurently Residing in Kolkata, West Bengal, India.
   
-  - I've used Python, java and a very basic of Rust. 
+  - I mostly use Python and Java for my projects.
+
+  - I love data analysis and knowing more about data management techniques.
   
-  - but mostly I am more of an hardware and electronic enthusiast.
+  - Also interested in electronics.
 
  </b> 
  
  ### Stuff I do:
- 
- <b>
-  Even though I like software, I am not very engulfed into it as of the time of this commit.<br>
-  I like Electrical circuits more and I have worked with domestic level high volage low frequncy electricity.
-  <b>
+
+ As of this commit, I am working with python mainly, With libraries like flask and pymongo to name a few.
+ Although I still do use HTML and CSS on a daily basis.  
  
  ## Tools I have used in the Past projects
+
+ ### Quite Often
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/mongodb-%FFFFFF.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%FFFF23.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Very Rarely
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+
 
 ## Operating Systems(Distros) I use:
 
@@ -51,10 +58,7 @@
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/IzumiCypherX)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=Instagram&logoColor=gradientred)](https://www.instagram.com/IzumiCypherX)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhartha-rao-professional/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhartharao/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheSidharthaRao)
 
-![stats](https://github-readme-stats.vercel.app/api?username=IzumiCypherX&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=IzumiCypherX&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
