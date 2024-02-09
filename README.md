@@ -18,7 +18,7 @@
   - I love data analysis and knowing more about data management techniques.
   
   - Also interested in electronics.
-  - 
+  
   - Also, do Check izumicypherx.github.io
 
  </b> 
