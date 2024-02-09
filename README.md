@@ -19,8 +19,7 @@
   
   - Also interested in electronics.
   
-  - Also, do Check izumicypherx.github.io
-
+  - Also, do Check [izumicypherx.github.io](https://izumicypherx.github.io)
  </b> 
  
  ### Stuff I do:
