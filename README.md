@@ -15,7 +15,7 @@
   
   - I mostly use Python for my projects.
 
-  - Currently Learning basics of NodeJS and ExpressJS
+  - Currently working on APIs using ExpressJS.
 
   - I love data analysis and knowing more about data management techniques.
   
