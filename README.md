@@ -9,7 +9,7 @@
   
   - Languages I speak: English(EN); Hindi(हिंदी); Bengali(বাংলা), Japanese(日本語) (to a very basic elementary level)
   
-  - 18 years old.
+  - 19 years old.
   
   - Cuurently Residing in Kolkata, West Bengal, India.
   
@@ -26,7 +26,7 @@
  
  ### Stuff I do:
 
- As of this commit, I am working with python mainly, With libraries like flask and pymongo to name a few.
+ As of this commit, I am working with NodeJS mainly, with technologies like Express and NextJS to name a few.
  Although I still do use HTML and CSS on a daily basis.  
  
  ## Tools I have used in the Past projects
