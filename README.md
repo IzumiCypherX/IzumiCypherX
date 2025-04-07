@@ -9,25 +9,21 @@
   
   - Languages I speak: English(EN); Hindi(हिंदी); Bengali(বাংলা), Japanese(日本語) (to a very basic elementary level)
   
-  - 18 years old.
+  - 19 years old.
   
   - Cuurently Residing in Kolkata, West Bengal, India.
   
   - I mostly use Python for my projects.
 
-  - Currently working on APIs using ExpressJS.
-
-  - I love data analysis and knowing more about data management techniques.
-  
-  - Also interested in electronics.
+  - Currently working on APIs using ExpressJS and Full Stack Development with NextJS.
   
   - Also, do Check [izumicypherx.github.io](https://izumicypherx.github.io)
  </b> 
  
  ### Stuff I do:
 
- As of this commit, I am working with python mainly, With libraries like flask and pymongo to name a few.
- Although I still do use HTML and CSS on a daily basis.  
+ As of this commit, I am working with Javascript mainly, with technologies like NexJS and ExpressJS to name a few.
+ For personal projects I prefer using python, and I use it for various data analysis tasks, using libraries like matplotlib, numpy and pandas.
  
  ## Tools I have used in the Past projects
 
@@ -69,6 +65,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheSidharthaRao)
 
 
-## Stats for Nerds
+<p>&nbsp;<img align="center" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=IzumiCypherX&show_icons=true&locale=en&layout=compact&theme=radical" alt="IzumiCypherX" /></p>
 
-![izumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=izumicypherx&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
